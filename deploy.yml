@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: ghcr.io/dsaada42/hello-world:v2
+          image: ghcr.io/dsaada42/hello-world:v1
           ports:
             - containerPort: 80
 ---
